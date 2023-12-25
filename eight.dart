@@ -4,7 +4,7 @@
 //i.e: Percentage should be rounded upto 2 decimal places only
 
 main() {
-  var name = "MUHAMMAD TALHA FAIZAN";
+  var name = "M FAIZAN LATIF";
   var id = 10505;
   var claass = "10th";
   num maths = 82;
