@@ -6,6 +6,9 @@
 //Is student is allowed to sit in exam or not
 
 main() {
+
+  print("\nM Faizan Latif");
+  
   int classes = 16;
   int held_classes = 1;
   num percentage = (held_classes / classes) * 100;

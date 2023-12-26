@@ -3,6 +3,8 @@
 import 'dart:io';
 void main() {
 
+  print("\nM Faizan Latif");
+
   num a = int.parse(stdin.readLineSync()!);
   num b = int.parse(stdin.readLineSync()!);
   num c = int.parse(stdin.readLineSync()!);
