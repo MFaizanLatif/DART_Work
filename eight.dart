@@ -4,6 +4,7 @@
 //i.e: Percentage should be rounded upto 2 decimal places only
 
 main() {
+  print("\nM Faizan Latif");
   var name = "M FAIZAN LATIF";
   var id = 10505;
   var claass = "10th";

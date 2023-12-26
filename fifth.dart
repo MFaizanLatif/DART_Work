@@ -10,6 +10,8 @@
 //temp >=40 then Its Very Hot
 
 main() {
+
+  print("\nM Faizan Latif");
   num temperature = -100;
   print("\nCURRENT TEMPERATURE IS :$temperature°C");
   if (temperature < 0) {
