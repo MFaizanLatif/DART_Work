@@ -1,11 +1,11 @@
 //Q10: Write a program that takes three numbers from the user and prints the
 //greatest number & lowest number
-
+import 'dart:io';
 void main() {
 
-  num a = 5;
-  num b = 90;
-  num c = 3;
+  num a = int.parse(stdin.readLineSync()!);
+  num b = int.parse(stdin.readLineSync()!);
+  num c = int.parse(stdin.readLineSync()!);
 
   if (a > b && a > c) {
     print("$a IS GREATER THAN $b AND $c");
