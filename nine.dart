@@ -2,7 +2,7 @@
 //divisible by 5 or not & if number is odd then check if this is divisible by 7 or not
 
 main() {
-  print("\nM Faizan Latif");
+  //print("\nM Faizan Latif");
   num a = 7;
   if (a % 2 == 0) {
     print("\nTHE NUMBER IS EVEN");
