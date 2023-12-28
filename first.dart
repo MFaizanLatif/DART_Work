@@ -9,7 +9,9 @@ main() {
   int breath = 30;
   if (length == breath) {
     print("\nTHIS IS SQUARE");
+    print("\nSQUARE");
   } else {
     print("\nTHIS IS RECTENGALE");
+    print("\nRECTANGLE");
   }
 }
